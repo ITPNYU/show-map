@@ -1,0 +1,1 @@
+This lays out projects from a venue on a map of the 2nd and 4th floor.  There are two entirely different versions, one in public directory and one in regular directory.  When we get single sign on it would be nice to have less repetition in the code.
