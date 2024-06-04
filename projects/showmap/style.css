@@ -1,0 +1,59 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    display: block;
+}
+
+
+.keyer:hover {
+    background-color: yellow;
+}
+
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    padding: 10px;
+    font-size: 16px;
+    width: 300px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    background-image: linear-gradient(to bottom, #ffffff, #e5e5e5);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+select:hover {
+    border-color: #999;
+}
+
+select:focus {
+    outline: none;
+    border-color: #555;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    width: 300px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    background-image: linear-gradient(to bottom, #ffffff, #e5e5e5);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+    border-color: #999;
+}
+
+button:focus {
+    outline: none;
+    border-color: #555;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
